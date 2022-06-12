@@ -40,13 +40,13 @@ app.use(cors())
 
 const menuItems = [ {
     "char_id": 1,
-    "name": "Walter White",
-    "birthday": "09-07-1958",
+    "name": "Pork Belly Noodle Bowl",
+    "birthday": "$24.00",
     "occupation": [
         "High School Chemistry Teacher",
         "Meth King Pin"
     ],
-    "img": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
+    "img": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/cd/03/93/pork-belly-noodle-bowl.jpg",
     "status": "Presumed dead",
     "nickname": "Heisenberg",
     "appearance": [
@@ -70,7 +70,7 @@ const menuItems = [ {
     ],
     "img": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
     "status": "Presumed dead",
-    "nickname": "Heisenberg",
+    "nickname": "Noodle, Pork Belly, Broth",
     "appearance": [
         1,
         2,

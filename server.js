@@ -13,7 +13,7 @@ app.use(cors())
 //     "char_id":1,
 //     'porkBowl': {
 //     'itemName' : 'Pork Belly Noodle Bowl',
-//     'ingredients': 'Noodle, Pork Belly, Broth',
+//     'ingredients': 'Noodles, Pork Belly, Broth',
 //     'price':'$24.00',
 //     'img': 'https://media-cdn.tripadvisor.com/media/photo-m/1280/18/cd/03/93/pork-belly-noodle-bowl.jpg' ,
     
@@ -40,14 +40,10 @@ app.use(cors())
 
 const menuItems = [ {
     "char_id": 1,
-    "name": "Pork Belly Noodle Bowl",
-    "birthday": "$24.00",
-    "occupation": [
-        "High School Chemistry Teacher",
-        "Meth King Pin"
-    ],
+    "itemName": "Pork Belly Noodle Bowl",
+    "price": "$24.00",
     "img": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/cd/03/93/pork-belly-noodle-bowl.jpg",
-    "status": "Presumed dead",
+    "ingredients": "Noodles, Pork Belly, Broth",
     "nickname": "Heisenberg",
     "appearance": [
         1,

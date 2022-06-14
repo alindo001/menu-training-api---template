@@ -20,8 +20,8 @@ const menuItems = [ {
 },
 {
     "char_id": 2,
-    "itemName": "Asian-marinated Airline Chicken",
-    "price": "$50 Castar",
+    "itemName": "Lembas Bread",
+    "price": "50 Castar",
     "img": "https://m.ftscrt.com/static/recipe/0c9e0474-27c3-4634-ae79-181b50f5f53f.jpg",
     "ingredients": "Flour, baking powder, salt, butter, brown sugar, cinnamon, honey, heavy cream, vanilla extract",
     "allergens": "dairy, gluten",
